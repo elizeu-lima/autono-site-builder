@@ -21,7 +21,7 @@ const Scheduling = () => {
   const { toast } = useToast();
 
   const services = [
-    { id: 'design', name: 'Design Gráfico' },
+    { id: 'wp', name: 'Wordpress' },
     { id: 'development', name: 'Desenvolvimento Web' },
     { id: 'consulting', name: 'Consultoria' },
     { id: 'maintenance', name: 'Manutenção' },
