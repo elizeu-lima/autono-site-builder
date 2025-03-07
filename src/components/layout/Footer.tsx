@@ -129,7 +129,7 @@ const Footer = () => {
         
         {/* Copyright */}
         <div className="border-t pt-6 text-center text-sm text-muted-foreground">
-          <p>© {currentYear} ProAutônomo. Todos os direitos reservados.</p>
+          <p>© {currentYear} Elizeu Lima. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
