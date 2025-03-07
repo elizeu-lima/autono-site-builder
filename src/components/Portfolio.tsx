@@ -28,9 +28,9 @@ const Portfolio = ({ limit = 0 }) => {
   const projects: Project[] = [
     {
       id: 1,
-      title: 'Redesign de Marca',
+      title: 'Wordpress',
       category: 'design',
-      imageUrl: 'https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80',
+      imageUrl: 'https://unsplash.com/pt-br/fotografias/monitor-de-computador-de-tela-plana-preta-I3jsaLiK_sc',
       description: 'Redesign completo da identidade visual para empresa de tecnologia.',
       client: 'TechCorp',
     },
