@@ -97,7 +97,7 @@ const Contact = () => {
                 <Phone className="h-5 w-5 text-primary mr-3 mt-1" />
                 <div>
                   <h4 className="text-base font-medium">Telefone</h4>
-                  <p className="text-muted-foreground">+55 (11) 98765-4321</p>
+                  <p className="text-muted-foreground">+55 (41) 99735-9141</p>
                 </div>
               </div>
               
@@ -105,7 +105,7 @@ const Contact = () => {
                 <Mail className="h-5 w-5 text-primary mr-3 mt-1" />
                 <div>
                   <h4 className="text-base font-medium">Email</h4>
-                  <p className="text-muted-foreground">contato@proautonomo.com.br</p>
+                  <p className="text-muted-foreground">elizeulimafrontend@gmail.com</p>
                 </div>
               </div>
               
@@ -113,7 +113,7 @@ const Contact = () => {
                 <MapPin className="h-5 w-5 text-primary mr-3 mt-1" />
                 <div>
                   <h4 className="text-base font-medium">Localização</h4>
-                  <p className="text-muted-foreground">São Paulo, SP - Brasil</p>
+                  <p className="text-muted-foreground">Curitiba, PR - Brasil</p>
                 </div>
               </div>
             </div>
