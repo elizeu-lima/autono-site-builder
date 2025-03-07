@@ -14,9 +14,9 @@ type Service = {
 const Services = () => {
   const services: Service[] = [
     {
-      id: 'design',
-      title: 'Design Gráfico',
-      description: 'Criação de identidade visual, materiais impressos, banners, posts para redes sociais e muito mais.',
+      id: 'wp',
+      title: 'Wordpress',
+      description: 'Um desenvolvedor WordPress é um especialista em transformar ideias em sites funcionais e atraentes. Domina PHP, HTML, CSS e JavaScript, personaliza temas, cria plugins e otimiza desempenho, SEO e segurança. Conecta códigos a resultados eficazes.',
       icon: <Lightbulb className="h-5 w-5" />,
       color: 'bg-blue-50 text-blue-600',
     },
